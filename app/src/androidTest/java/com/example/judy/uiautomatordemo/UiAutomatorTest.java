@@ -42,7 +42,7 @@ public class UiAutomatorTest {
         u.sleep(2000);
         mDevice.findObject(new UiSelector().text("通讯录")).click();
         u.sleep(2000);
-        mDevice.findObject(new UiSelector().text("Lazy-Judy")).click();
+        mDevice.findObject(new UiSelector().text("Lazy-Pig")).click();
         u.sleep(2000);
         mDevice.findObject(new UiSelector().text("发消息")).click();
         u.sleep(2000);
